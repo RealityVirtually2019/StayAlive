@@ -18,11 +18,15 @@ MonoBehaviour:
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 9.537533897906542
+  windowTime: 0
   m_Keys:
   - {fileID: 114880543470025482, guid: c8c83f78556724a2cad5db4f0c0fce8b, type: 2}
   - {fileID: 114570179665510212, guid: c8c83f78556724a2cad5db4f0c0fce8b, type: 2}
+  - {fileID: 114413974795651686, guid: c8c83f78556724a2cad5db4f0c0fce8b, type: 2}
   m_Vals:
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
   - collapsed: 0
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
