@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelChanger : MonoBehaviour {
 
-    public Animator animator;
+    //public Animator animator;
     private int levelToLoad;
 
 
@@ -12,21 +12,30 @@ public class LevelChanger : MonoBehaviour {
         if (Input.GetButton("Horizontal"))
         {
             Debug.Log(Input.GetAxis("Horizontal"));
+            Debug.Log("current scene" + SceneManager.GetActiveScene().buildIndex);
             if (Input.GetAxis("Horizontal") > 0.1)
             {
-                FadeToNextLevel();
+                Debug.Log("going to scene" + SceneManager.GetActiveScene().buildIndex + 1);
+                SceneManager.LoadScene((SceneManager.GetActiveScene().buildIndex + 1));
             }
             else if (Input.GetAxis("Horizontal") < -0.1)
             {
-                FadeToPrevLevel();
+                SceneManager.LoadScene((SceneManager.GetActiveScene().buildIndex - 1));
             }
         }
 	}
 
+    public void FadeToNextLevel() {
+        Debug.Log("current scene" + SceneManager.GetActiveScene().buildIndex);
+        Debug.Log("going to scene" + SceneManager.GetActiveScene().buildIndex + 1);
+        FadeToLevel(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+
     public void FadeToLevel (int levelIndex)
     {
         levelToLoad = levelIndex;
-        animator.SetTrigger("FadeOut");
+        //animator.SetTrigger("FadeOut");
+        SceneManager.LoadScene(levelToLoad);
     }
 
     public void OnFadeComplete()
@@ -34,10 +43,7 @@ public class LevelChanger : MonoBehaviour {
         SceneManager.LoadScene(levelToLoad);
     }
 
-    public void FadeToNextLevel()
-    {
-        FadeToLevel(SceneManager.GetActiveScene().buildIndex + 1);
-    }
+
 
     public void FadeToPrevLevel()
     {
