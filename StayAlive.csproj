@@ -525,6 +525,8 @@
     <Compile Include="Assets\Oculus\VoiceMod\Scripts\OVRVoiceModContext.cs" />
     <Compile Include="Assets\Scripts\LevelChanger.cs" />
     <Compile Include="Assets\Scripts\SoundPrefab.cs" />
+    <Compile Include="Assets\Scripts\TimelineLevelController.cs" />
+    <Compile Include="Assets\Scripts\VideoTexture.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarMaterialStateShader.cginc" />

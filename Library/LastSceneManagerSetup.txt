@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Scene1Title.unity
+- path: Assets/Scenes/Scene2Ankor.unity
   isLoaded: 1
   isActive: 1
