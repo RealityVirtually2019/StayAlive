@@ -340,6 +340,7 @@
     <None Include="Assets\Ultra Skybox Fog\Textures\Readme.txt" />
     <None Include="Assets\Urban Assets 1\Industrial Props\ReadMe.txt" />
     <None Include="Assets\Urban Assets\Industrial Props\ReadMe.txt" />
+    <None Include="Assets\Urban Assets\TV\readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
