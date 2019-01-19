@@ -2,7 +2,144 @@ fileFormatVersion: 2
 guid: bd8feada73a2f634e8875db9a8c43436
 ModelImporter:
   serializedVersion: 22
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: _imanshirani
+    100002: Birth 001
+    100004: Birth 004
+    100006: Birth 005
+    100008: Birth 006
+    100010: Collision 001
+    100012: Deflector001_imanshirani
+    100014: Delete 001
+    100016: Delete 004
+    100018: Delete 005
+    100020: Delete 006
+    100022: Delete 007
+    100024: Display 001
+    100026: Display 004
+    100028: Display 005
+    100030: Display 006
+    100032: Display 007
+    100034: Event 001
+    100036: Event 004
+    100038: Event 005
+    100040: Event 006
+    100042: Event 007
+    100044: FFX Particle Src001_imanshirani
+    100046: FFX Particle Src002_imanshirani
+    100048: FFX Particle Src003_imanshirani
+    100050: FFX Particle Src004_imanshirani
+    100052: FumeFX001_imanshirani
+    100054: non-commercial license
+    100056: Particle View 001
+    100058: 'PF '
+    100060: PF Arrow001
+    100062: PF Engine001
+    100064: PF Engine002
+    100066: PF Engine004
+    100068: PF Source 001_imanshirani
+    100070: PF Source 001_imanshirani->Event 001
+    100072: PF Source 001_imanshirani->PF Source 001_imanshirani
+    100074: PF Source 002_imanshirani
+    100076: PF Source 002_imanshirani->Event 001
+    100078: PF Source 002_imanshirani->Event 006
+    100080: PF Source 002_imanshirani->PF Source 002_imanshirani
+    100082: PF Source 003_imanshirani
+    100084: PF Source 003_imanshirani->Event 007
+    100086: PF Source 003_imanshirani->PF Source 003_imanshirani
+    100088: PF Source 004_imanshirani
+    100090: PF Source 004_imanshirani->Event 004
+    100092: PF Source 004_imanshirani->Event 005
+    100094: PF Source 004_imanshirani->PF Source 004_imanshirani
+    100096: Position Icon 001
+    100098: Position Icon 004
+    100100: Position Icon 005
+    100102: Position Icon 006
+    100104: Render 001
+    100106: Render 002
+    100108: Render 003
+    100110: Render 004
+    100112: //RootNode
+    100114: Speed 001
+    100116: Speed 004
+    100118: Speed 005
+    100120: Speed 006
+    100122: Spot_BackLight1_imanshirani
+    100124: Spot_BackLight2_imanshirani
+    100126: Spot_Fill_imanshirani
+    100128: spot_Key_imanshirani
+    100130: Wind001_imanshirani
+    400000: _imanshirani
+    400002: Birth 001
+    400004: Birth 004
+    400006: Birth 005
+    400008: Birth 006
+    400010: Collision 001
+    400012: Deflector001_imanshirani
+    400014: Delete 001
+    400016: Delete 004
+    400018: Delete 005
+    400020: Delete 006
+    400022: Delete 007
+    400024: Display 001
+    400026: Display 004
+    400028: Display 005
+    400030: Display 006
+    400032: Display 007
+    400034: Event 001
+    400036: Event 004
+    400038: Event 005
+    400040: Event 006
+    400042: Event 007
+    400044: FFX Particle Src001_imanshirani
+    400046: FFX Particle Src002_imanshirani
+    400048: FFX Particle Src003_imanshirani
+    400050: FFX Particle Src004_imanshirani
+    400052: FumeFX001_imanshirani
+    400054: non-commercial license
+    400056: Particle View 001
+    400058: 'PF '
+    400060: PF Arrow001
+    400062: PF Engine001
+    400064: PF Engine002
+    400066: PF Engine004
+    400068: PF Source 001_imanshirani
+    400070: PF Source 001_imanshirani->Event 001
+    400072: PF Source 001_imanshirani->PF Source 001_imanshirani
+    400074: PF Source 002_imanshirani
+    400076: PF Source 002_imanshirani->Event 001
+    400078: PF Source 002_imanshirani->Event 006
+    400080: PF Source 002_imanshirani->PF Source 002_imanshirani
+    400082: PF Source 003_imanshirani
+    400084: PF Source 003_imanshirani->Event 007
+    400086: PF Source 003_imanshirani->PF Source 003_imanshirani
+    400088: PF Source 004_imanshirani
+    400090: PF Source 004_imanshirani->Event 004
+    400092: PF Source 004_imanshirani->Event 005
+    400094: PF Source 004_imanshirani->PF Source 004_imanshirani
+    400096: Position Icon 001
+    400098: Position Icon 004
+    400100: Position Icon 005
+    400102: Position Icon 006
+    400104: Render 001
+    400106: Render 002
+    400108: Render 003
+    400110: Render 004
+    400112: //RootNode
+    400114: Speed 001
+    400116: Speed 004
+    400118: Speed 005
+    400120: Speed 006
+    400122: Spot_BackLight1_imanshirani
+    400124: Spot_BackLight2_imanshirani
+    400126: Spot_Fill_imanshirani
+    400128: spot_Key_imanshirani
+    400130: Wind001_imanshirani
+    9500000: //RootNode
+    10800000: Spot_BackLight1_imanshirani
+    10800002: Spot_BackLight2_imanshirani
+    10800004: Spot_Fill_imanshirani
+    10800006: spot_Key_imanshirani
   externalObjects: {}
   materials:
     importMaterials: 1
