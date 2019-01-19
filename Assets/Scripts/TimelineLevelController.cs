@@ -10,7 +10,6 @@ public class TimelineLevelController : MonoBehaviour {
 	void OnEnable () {
         Debug.Log("L");
         LevelChanger.FadeToNextLevel();
-
     }
 	
 }
