@@ -680,7 +680,7 @@ GameObject:
   - component: {fileID: 1016747310}
   - component: {fileID: 1016747309}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Timeline Object for Audio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

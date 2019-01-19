@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.29715562, g: 0.24628273, b: 0.23252651, a: 1}
+  m_IndirectSpecularColor: {r: 0.2970508, g: 0.24628142, b: 0.23225415, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -347,7 +347,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -1641,6 +1641,18 @@ Prefab:
       propertyPath: m_RootOrder
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1.4358363
+      objectReference: {fileID: 0}
+    - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.4358361
+      objectReference: {fileID: 0}
+    - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1.4358361
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
   m_IsPrefabParent: 0
@@ -2037,7 +2049,7 @@ GameObject:
   - component: {fileID: 1067375249}
   - component: {fileID: 1067375248}
   m_Layer: 0
-  m_Name: 'Timeline '
+  m_Name: Timeline Object for Audio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2076,7 +2088,7 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 114807250991910670, guid: 088f30edcbba5ce40bdb82e6b3cb4469, type: 2}
     value: {fileID: 1067375247}
-  - key: {fileID: 114991302235632020, guid: 088f30edcbba5ce40bdb82e6b3cb4469, type: 2}
+  - key: {fileID: 0}
     value: {fileID: 42540438}
   - key: {fileID: 114796408842408424, guid: 088f30edcbba5ce40bdb82e6b3cb4469, type: 2}
     value: {fileID: 0}

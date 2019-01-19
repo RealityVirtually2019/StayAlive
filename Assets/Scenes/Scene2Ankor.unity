@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 875439414}
   - component: {fileID: 875439413}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Timeline Object for Audio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -286,6 +286,10 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 114880543470025482, guid: c8c83f78556724a2cad5db4f0c0fce8b, type: 2}
     value: {fileID: 875439411}
+  - key: {fileID: 114570179665510212, guid: c8c83f78556724a2cad5db4f0c0fce8b, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 114413974795651686, guid: c8c83f78556724a2cad5db4f0c0fce8b, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &1203029043
@@ -322,6 +326,8 @@ PlayableDirector:
     value: {fileID: 0}
   - key: {fileID: 114570179665510212, guid: c8c83f78556724a2cad5db4f0c0fce8b, type: 2}
     value: {fileID: 24687929}
+  - key: {fileID: 114413974795651686, guid: c8c83f78556724a2cad5db4f0c0fce8b, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1203029045
