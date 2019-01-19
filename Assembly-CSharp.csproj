@@ -60,6 +60,7 @@
      <Compile Include="Assets\Oculus\Spatializer\Scripts\ONSPVersion.cs" />
      <Compile Include="Assets\Scripts\LevelChanger.cs" />
      <Compile Include="Assets\Scripts\SoundPrefab.cs" />
+     <None Include="Assets\Urban Assets 1\Industrial Props\ReadMe.txt" />
      <None Include="Assets\Urban Assets\Industrial Props\ReadMe.txt" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>/Applications/Unity/Hub/Editor/2017.4.18f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
