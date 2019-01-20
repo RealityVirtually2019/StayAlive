@@ -6,8 +6,9 @@ public class VideoTexture : MonoBehaviour {
     void Start() {
         var videoPlayer = gameObject.AddComponent<UnityEngine.Video.VideoPlayer>();
         var audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.playOnAwake = true;
+        videoPlayer.playOnAwake = true;
 
-        videoPlayer.playOnAwake = false;
         videoPlayer.clip = videoClip;
         videoPlayer.renderMode = UnityEngine.Video.VideoRenderMode.MaterialOverride;
         videoPlayer.targetMaterialRenderer = GetComponent<Renderer>();

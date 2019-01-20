@@ -29,11 +29,12 @@ public class OVRScreenFade : MonoBehaviour
 	public Color fadeColor = new Color(0.01f, 0.01f, 0.01f, 1.0f);
 
     public bool fadeOnStart = true;
+    public bool fadeOnEnd = true;
 
-	/// <summary>
-	/// The render queue used by the fade mesh. Reduce this if you need to render on top of it.
-	/// </summary>
-	public int renderQueue = 5000;
+    /// <summary>
+    /// The render queue used by the fade mesh. Reduce this if you need to render on top of it.
+    /// </summary>
+    public int renderQueue = 5000;
 
     private float uiFadeAlpha = 0;
 

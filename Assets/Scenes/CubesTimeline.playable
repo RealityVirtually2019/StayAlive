@@ -54,16 +54,16 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 8.850780487060547
+  - m_Start: 8.873432159423828
     m_ClipIn: 0
-    m_Asset: {fileID: 114814586046416224}
-    m_Duration: 14.602448979591836
+    m_Asset: {fileID: 114852368726209938}
+    m_Duration: 15.232743764172335
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114043423091845352}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: -1
+    m_BlendOutDuration: 0.6529464569437806
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -84,19 +84,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -109,7 +97,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: SC1_VO_Ca
+    m_DisplayName: SC1_vo_cambodia  i knew_v3_f
     m_Version: 1
   - m_Start: 23.45322946665238
     m_ClipIn: 0
@@ -119,23 +107,11 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 114043423091845352}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: -1
+    m_BlendInDuration: 0.6529464569437806
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -403,10 +379,10 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 30.516666666666666
+  - m_Start: 27.737311099305444
     m_ClipIn: 0
     m_Asset: {fileID: 114008241287823454}
-    m_Duration: 1.9166666666666643
+    m_Duration: 48.65645893330479
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114760045627426494}
     m_EaseInDuration: 0
@@ -613,7 +589,7 @@ MonoBehaviour:
     m_DisplayName: Active
     m_Version: 1
   m_PostPlaybackState: 3
---- !u!114 &114814586046416224
+--- !u!114 &114852368726209938
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -624,7 +600,7 @@ MonoBehaviour:
   m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 5ebd7f964ffc9b1458b81674de1ec589, type: 3}
+  m_Clip: {fileID: 8300000, guid: 38ea1c144210135498c2457b1c1bc556, type: 3}
   m_Loop: 0
   m_bufferingTime: 0.1
 --- !u!114 &114886914215641642

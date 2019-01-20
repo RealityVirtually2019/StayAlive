@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 770e4610da26f3e408aaf2985dfaca7a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: //RootNode
+    100004: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356690]
+    100006: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356693]
+    100008: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356696]
+    100010: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356699]
+    100012: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356702]
+    100014: Level Level 1 [30]
+    100016: Level Level 2 [9946]
+    100018: RPC Tree - Deciduous Japanese Cherry - 15' [356723]
+    100020: RPC Tree - Deciduous Japanese Cherry - 15' [356726]
+    100022: RPC Tree - Deciduous Japanese Cherry - 15' [356729]
+    100024: RPC Tree - Deciduous Japanese Cherry - 15' [356732]
+    100026: RPC Tree - Deciduous Japanese Cherry - 15' [356820]
+    100028: RPC Tree - Deciduous Japanese Cherry - 15' [356823]
+    100030: RPC Tree - Deciduous Japanese Cherry - 15' [356828]
+    100032: RPC Tree - Deciduous Japanese Cherry - 15' [356835]
+    100034: RPC Tree - Deciduous Japanese Cherry - 15' [356838]
+    100036: RPC Tree - Deciduous Japanese Cherry - 15' [356857]
+    100038: RPC Tree - Deciduous Japanese Cherry - 15' [356862]
+    100040: RPC Tree - Deciduous Japanese Cherry - 15' [356865]
+    100042: RPC Tree - Deciduous Japanese Cherry - 15' [356870]
+    100044: RPC Tree - Deciduous Japanese Cherry - 15' [356875]
+    100046: RPC Tree - Deciduous Japanese Cherry - 15' [356880]
+    100048: RPC Tree - Deciduous Japanese Cherry - 15' [356883]
+    100050: RPC Tree - Deciduous Japanese Cherry - 15' [356886]
+    100052: RPC Tree - Deciduous Japanese Cherry - 15' [356889]
+    100054: RPC Tree - Deciduous Japanese Cherry - 15' [356894]
+    100056: RPC Tree - Deciduous Japanese Cherry - 15' [356897]
+    100058: RPC Tree - Deciduous Japanese Cherry - 15' [356902]
+    400000: '3D View: {3D}'
+    400002: //RootNode
+    400004: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356690]
+    400006: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356693]
+    400008: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356696]
+    400010: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356699]
+    400012: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356702]
+    400014: Level Level 1 [30]
+    400016: Level Level 2 [9946]
+    400018: RPC Tree - Deciduous Japanese Cherry - 15' [356723]
+    400020: RPC Tree - Deciduous Japanese Cherry - 15' [356726]
+    400022: RPC Tree - Deciduous Japanese Cherry - 15' [356729]
+    400024: RPC Tree - Deciduous Japanese Cherry - 15' [356732]
+    400026: RPC Tree - Deciduous Japanese Cherry - 15' [356820]
+    400028: RPC Tree - Deciduous Japanese Cherry - 15' [356823]
+    400030: RPC Tree - Deciduous Japanese Cherry - 15' [356828]
+    400032: RPC Tree - Deciduous Japanese Cherry - 15' [356835]
+    400034: RPC Tree - Deciduous Japanese Cherry - 15' [356838]
+    400036: RPC Tree - Deciduous Japanese Cherry - 15' [356857]
+    400038: RPC Tree - Deciduous Japanese Cherry - 15' [356862]
+    400040: RPC Tree - Deciduous Japanese Cherry - 15' [356865]
+    400042: RPC Tree - Deciduous Japanese Cherry - 15' [356870]
+    400044: RPC Tree - Deciduous Japanese Cherry - 15' [356875]
+    400046: RPC Tree - Deciduous Japanese Cherry - 15' [356880]
+    400048: RPC Tree - Deciduous Japanese Cherry - 15' [356883]
+    400050: RPC Tree - Deciduous Japanese Cherry - 15' [356886]
+    400052: RPC Tree - Deciduous Japanese Cherry - 15' [356889]
+    400054: RPC Tree - Deciduous Japanese Cherry - 15' [356894]
+    400056: RPC Tree - Deciduous Japanese Cherry - 15' [356897]
+    400058: RPC Tree - Deciduous Japanese Cherry - 15' [356902]
+    2000000: '3D View: {3D}'
+    2100000: No Name
+    2300000: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356690]
+    2300002: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356693]
+    2300004: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356696]
+    2300006: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356699]
+    2300008: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356702]
+    2300010: Level Level 1 [30]
+    2300012: Level Level 2 [9946]
+    3300000: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356690]
+    3300002: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356693]
+    3300004: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356696]
+    3300006: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356699]
+    3300008: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356702]
+    3300010: Level Level 1 [30]
+    3300012: Level Level 2 [9946]
+    4300000: Gloomy_Hemlock_11608 Gloomy_Hemlock_11608 [356690]
+    4300002: Level Level 1 [30]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

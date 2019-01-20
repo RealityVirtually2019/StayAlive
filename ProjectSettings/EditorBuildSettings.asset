@@ -14,3 +14,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene3Room 1.unity
     guid: cd189328cb417f44897944cc31c9442e
+  - enabled: 1
+    path: Assets/Scenes/Scene4Truck.unity
+    guid: 1c48842fb86e7fc4d9d5843d1ed2d865
+  - enabled: 1
+    path: Assets/Scenes/Scene4.5.unity
+    guid: cbf6f43501a984a4e9af89485fa644e6
+  - enabled: 1
+    path: Assets/Scenes/Scene5Jungle.unity
+    guid: c08b68661c72c1a4f91986346a88e221
+  - enabled: 1
+    path: Assets/Scenes/Scene6.unity
+    guid: f468f62773bd99b43b94b772fca92ec6
+  - enabled: 1
+    path: Assets/Scenes/Scene7.unity
+    guid: f1e3b291797d6664490409eb27527538
