@@ -523,6 +523,13 @@
     <Compile Include="Assets\Oculus\VoiceMod\Scripts\Helpers\OVRMicInput.cs" />
     <Compile Include="Assets\Oculus\VoiceMod\Scripts\OVRVoiceMod.cs" />
     <Compile Include="Assets\Oculus\VoiceMod\Scripts\OVRVoiceModContext.cs" />
+    <Compile Include="Assets\RainMaker\Demo\DemoScript.cs" />
+    <Compile Include="Assets\RainMaker\Demo\DemoScript2D.cs" />
+    <Compile Include="Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\BaseRainScript.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\RainCollision.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\RainScript.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\RainScript2D.cs" />
     <Compile Include="Assets\Scripts\LevelChanger.cs" />
     <Compile Include="Assets\Scripts\SoundPrefab.cs" />
     <Compile Include="Assets\Scripts\TimelineLevelController.cs" />
@@ -576,6 +583,8 @@
     <None Include="Assets\Oculus\VR\Scripts\Editor\Oculus.VR.Scripts.Editor.asmdef" />
     <None Include="Assets\Oculus\VR\Shaders\OVRColorRampAlpha.shader" />
     <None Include="Assets\Oculus\VR\Shaders\Unlit Crosshair.shader" />
+    <None Include="Assets\RainMaker\Prefab\RainShader.shader" />
+    <None Include="Assets\RainMaker\Readme.txt" />
     <None Include="Assets\Ultra Skybox Fog\Manual.txt" />
     <None Include="Assets\Ultra Skybox Fog\Shaders\UltraSkyboxFog.shader" />
     <None Include="Assets\Ultra Skybox Fog\Textures\Readme.txt" />

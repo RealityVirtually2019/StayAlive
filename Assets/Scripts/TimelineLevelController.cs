@@ -1,15 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TimelineLevelController : MonoBehaviour {
-
-    public LevelChanger LevelChanger;
 
 	// Use this for initialization
 	void OnEnable () {
         Debug.Log("L");
-        LevelChanger.FadeToNextLevel();
+        SceneManager.LoadScene((SceneManager.GetActiveScene().buildIndex + 1));
     }
 	
 }
