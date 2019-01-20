@@ -298,6 +298,7 @@
     <Compile Include="Assets\Oculus\VR\Editor\OVRSystemProfilerPanel.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Models\SC2-TV\archibase.net.txt" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarMaterialStateShader.cginc" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarSurfaceShader.shader" />
     <None Include="Assets\Oculus\Avatar\Content\Materials\AvatarSurfaceShaderPBS.shader" />
@@ -344,6 +345,8 @@
     <None Include="Assets\Oculus\VR\Scripts\Editor\Oculus.VR.Scripts.Editor.asmdef" />
     <None Include="Assets\Oculus\VR\Shaders\OVRColorRampAlpha.shader" />
     <None Include="Assets\Oculus\VR\Shaders\Unlit Crosshair.shader" />
+    <None Include="Assets\RainMaker\Prefab\RainShader.shader" />
+    <None Include="Assets\RainMaker\Readme.txt" />
     <None Include="Assets\Ultra Skybox Fog\Manual.txt" />
     <None Include="Assets\Ultra Skybox Fog\Shaders\UltraSkyboxFog.shader" />
     <None Include="Assets\Ultra Skybox Fog\Textures\Readme.txt" />

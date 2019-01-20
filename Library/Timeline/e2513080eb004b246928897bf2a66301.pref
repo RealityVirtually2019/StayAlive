@@ -12,19 +12,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeInFrames: 1
-  timeAreaShownRange: {x: -0.21231423, y: 9.787685}
+  timeAreaShownRange: {x: -1.8160206, y: 83.53695}
   showAudioWaveform: 1
   trackHeight: 30
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 2.85
+  windowTime: 30.133333333333333
   m_Keys:
   - {fileID: 114655270888181456, guid: e2513080eb004b246928897bf2a66301, type: 2}
   - {fileID: 114348711270712008, guid: e2513080eb004b246928897bf2a66301, type: 2}
   - {fileID: 114765447036370082, guid: e2513080eb004b246928897bf2a66301, type: 2}
   - {fileID: 114762052943393544, guid: e2513080eb004b246928897bf2a66301, type: 2}
   - {fileID: 114319207325235076, guid: e2513080eb004b246928897bf2a66301, type: 2}
+  - {fileID: 114043423091845352, guid: e2513080eb004b246928897bf2a66301, type: 2}
+  - {fileID: 114971957797975806, guid: e2513080eb004b246928897bf2a66301, type: 2}
+  - {fileID: 114760045627426494, guid: e2513080eb004b246928897bf2a66301, type: 2}
   m_Vals:
   - collapsed: 0
     showInlineCurves: 0
@@ -34,7 +37,16 @@ MonoBehaviour:
     inlineAnimationCurveHeight: 100
   - collapsed: 0
     showInlineCurves: 0
+    inlineAnimationCurveHeight: 93
+  - collapsed: 0
+    showInlineCurves: 0
     inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 60
   - collapsed: 0
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100

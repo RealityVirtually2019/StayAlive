@@ -21,23 +21,7 @@ MonoBehaviour:
   windowTime: 0
   m_Keys:
   - {fileID: 114036024715192974, guid: 6fa417627f2a80244bbd4f74f7bcbe04, type: 2}
-  - {fileID: 114065304276026576, guid: 6fa417627f2a80244bbd4f74f7bcbe04, type: 2}
-  - {fileID: 114739906071449402, guid: 6fa417627f2a80244bbd4f74f7bcbe04, type: 2}
-  - {fileID: 114584162517669666, guid: 6fa417627f2a80244bbd4f74f7bcbe04, type: 2}
-  - {fileID: 114209308256101472, guid: 6fa417627f2a80244bbd4f74f7bcbe04, type: 2}
   m_Vals:
-  - collapsed: 0
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-  - collapsed: 0
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-  - collapsed: 0
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-  - collapsed: 0
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
   - collapsed: 0
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
