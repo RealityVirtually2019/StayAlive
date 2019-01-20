@@ -18,6 +18,7 @@ MonoBehaviour:
   - {fileID: 114710603227424972}
   - {fileID: 114555444371290282}
   - {fileID: 114062586108070484}
+  - {fileID: 114455961264424296}
   m_FixedDuration: 0
   m_EditorSettings:
     m_Framerate: 60
@@ -80,7 +81,7 @@ MonoBehaviour:
   m_Script: {fileID: 442072544, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
   m_Name: ActivationPlayableAsset
   m_EditorClassIdentifier: 
---- !u!114 &114542096540167244
+--- !u!114 &114455961264424296
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -88,12 +89,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
-  m_Name: 
+  m_Script: {fileID: -2113462093, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Audio Track3
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 589ce7347941e40d89e84e36bc9b9d68, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips: []
 --- !u!114 &114555444371290282
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -114,8 +119,8 @@ MonoBehaviour:
   m_Clips:
   - m_Start: 0
     m_ClipIn: 0
-    m_Asset: {fileID: 114542096540167244}
-    m_Duration: 37.89473922902494
+    m_Asset: {fileID: 114608380791830800}
+    m_Duration: 43.49095238095238
     m_TimeScale: 1
     m_ParentTrack: {fileID: 114555444371290282}
     m_EaseInDuration: 0
@@ -167,8 +172,22 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: StayAlive_Title
+    m_DisplayName: "Stay Alive_S4.5\uF022Family Photo"
     m_Version: 1
+--- !u!114 &114608380791830800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 09b5586f6f21360408b8529d15c0d23a, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
 --- !u!114 &114710603227424972
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -187,7 +206,7 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 34.766666666666666
+  - m_Start: 38.13333333333333
     m_ClipIn: 0
     m_Asset: {fileID: 114193434643768918}
     m_Duration: 26.01140589569161

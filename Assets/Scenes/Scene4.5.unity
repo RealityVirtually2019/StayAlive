@@ -228,6 +228,8 @@ PlayableDirector:
     value: {fileID: 579363159}
   - key: {fileID: 114555444371290282, guid: 648ead7e0f85a46e19bf3c3b048233cb, type: 2}
     value: {fileID: 0}
+  - key: {fileID: 114062586108070484, guid: 648ead7e0f85a46e19bf3c3b048233cb, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &193961243
@@ -514,7 +516,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df8e1d778abf442e4bec449c360e9e1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeTime: 20
+  fadeTime: 6
   fadeColor: {r: 0.01, g: 0.01, b: 0.01, a: 1}
   fadeOnStart: 1
   fadeOnEnd: 1
@@ -1139,7 +1141,7 @@ Transform:
   m_GameObject: {fileID: 1035315892}
   m_LocalRotation: {x: 0.011524878, y: -0.70585555, z: 0.70814246, w: 0.013018877}
   m_LocalPosition: {x: 0.08, y: 1.13, z: 4.96}
-  m_LocalScale: {x: 0.3470357, y: 0.3470354, z: 0.41649997}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.62121266}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1

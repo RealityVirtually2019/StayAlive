@@ -318,6 +318,11 @@ Prefab:
       propertyPath: m_ClearFlags
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114091641166594870, guid: 19fb10131a4d643428ddb1305df2d040,
+        type: 2}
+      propertyPath: fadeTime
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 19fb10131a4d643428ddb1305df2d040, type: 2}
   m_IsPrefabParent: 0
